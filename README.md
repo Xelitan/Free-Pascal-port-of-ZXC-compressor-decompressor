@@ -1,5 +1,6 @@
 # Free Pascal port of ZXC v0.10.0 compressor/decompressor
 
+https://github.com/hellobertrand/zxc
  
 # Usage
 Add ZxcSimple to your uses
